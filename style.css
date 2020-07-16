@@ -1,0 +1,26 @@
+h1 {
+    text-align : center ;
+    text-decoration : underline ;
+    font-size : xxx-large ;
+}
+
+.succès, .échecs_quotes, .légende {
+    font-style : italic ;
+}
+
+
+body {
+    background-color:#FB8024 ;
+}
+
+#imagetest {
+    background: url("images/manette.jpeg") no-repeat fixed top left ;
+}
+
+figure, figcaption {
+    text-align : right ; 
+}
+
+.images {
+    float : right ;
+}
